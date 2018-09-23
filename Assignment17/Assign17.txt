@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+     <meta charset="UTF-8">
+     <title>Luxury Cars</title>
+   </head>
+   <body>
+     <h1>Luxury Cars</h1>
+     <nav>
+       <ul>
+        <li><a href="#audi">Audi</a></li>
+        <li><a href="#BMW">BMW</a></li>
+        <li><a href="#Mercedes">Mercedes</a></li>
+       </ul>
+     </nav>
+     <article id="Audi">
+       <h2>Audi</h2>
+       <img src="mercedes.jpg" alt="mercedes image" width=320>
+       <p>
+         "The Best or Nothing."
+       </p>
+       <ol>
+          <li>Loki</li>   
+          <li>Jane Foster</li>   
+          <li>Odin</li>   
+          <li>Fandral</li>   
+       </ol>
+     </article>
+     <article id="captain">
+        <h2>Captain America</h2>
+        <img src="CaptainAmerica.jpg" width=320>
+        <h3>Characters</h3>
+          <ul>
+              <li>Steve Rogers / Captain America</li>
+              <li>Chester Phillips</li>
+              <li>Johann Schmidt / Red Skull</li>
+          </ul>
+        <p>
+            “You asked about the Avengers. Y’wanna know the best part about being an Avenger? Having Captain America around you all the time. He just—the guy just brings out the absolute best in people. You want to be good when he’s around. You really do." 
+        </p>
+        <h3>Leadership lessons from captain america.</h3>
+        <h1>Be the Hero Your Employees Need (Captain America Style)</h1>
+        <ol>
+           <li>He has a moral center.</li>   
+           <li>He stands for something.</li>   
+           <li>He shuns the limelight.</li>   
+           <li>He adapts to strengths and weaknesses.</li>   
+        </ol>
+      </article>
+     <article id="BP">
+        <h2>Black Panther</h2>
+        <img src="BlackPanther.jpg" alt="Black Panther" width=320>
+       <p>
+         “You’re telling me that the king of a Third World country runs around in a bulletproof catsuit?”
+       </p>
+       <ol>
+          <li>Shuri</li>   
+          <li>Klaw</li>   
+          <li>Okoye</li>   
+          <li>Zuri</li>   
+       </ol>
+     </article>
+   </body>
+</html>
